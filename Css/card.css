@@ -1,0 +1,35 @@
+.card {
+    width: auto;
+    height: 130px;
+    margin: 5px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+    overflow: hidden;
+    display: flex;
+  }
+  
+  .card img {
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+  }
+  
+  .card-content {
+    padding: 5px;
+  }
+  
+  .text-content {
+    flex: 1;
+    margin-left: 15px;
+  }
+  
+  .text-content h2 {
+    font-size: 1.5rem;
+    margin: 0 0 10px;
+  }
+  
+  .text-content p {
+    font-size: 1rem;
+    margin: 0 0 5px;
+  }

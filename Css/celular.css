@@ -1,0 +1,27 @@
+
+.phone-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 97vh;
+    background-color: #f0f0f0;
+  }
+  
+  .phone-frame {
+    width: 315px;
+    height: 550px;
+    border: 10px solid #333;
+    border-radius: 20px;
+    background-color: #f1da03;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.774);
+    overflow: hidden;
+    position: relative;
+  }
+  
+
+  .phone-content {
+    width: 100%;
+    height: 100%;
+    background-color: white;
+  }
+  
