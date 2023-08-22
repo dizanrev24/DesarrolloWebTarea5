@@ -1,6 +1,6 @@
 .navbar {
-    background-color: #ff5050;
-    color: rgb(0, 0, 0);
+    background-color: #0c82f0;
+    color: rgb(255, 255, 255);
     padding: 10px 0;
     height: 25px;
   }
@@ -25,7 +25,7 @@
   }
 
 .separador{
-    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 2px 4px rgb(0, 0, 0);
 }
 .grid {
     display: grid;
@@ -41,7 +41,7 @@
     height: 90%;
     grid-template-columns: repeat(2, 1fr); 
     margin: 14px;
-    gap: 10px;
+    gap: 3px;
     padding: 10px;
     overflow: auto;
     scrollbar-width: thin;
@@ -51,6 +51,7 @@
 .texto {
     text-align: center;
     font-family: 'Arial Black';
+    color: #000000;
 }
 
 
